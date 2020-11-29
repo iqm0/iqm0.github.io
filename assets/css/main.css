@@ -454,7 +454,16 @@
 			position: relative;
 		}
 
-			input[type="checkbox"] + label:before,
+			input[type="checkbox"] + l
+			<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+			<link rel="stylesheet" href="assets/css/main.css" />
+			<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		</head>
+		<body class="is-preload">
+	
+			<!-- Wrapper -->
+				<div id="wrapper">
+	abel:before,
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
